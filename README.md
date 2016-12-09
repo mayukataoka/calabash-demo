@@ -1,6 +1,6 @@
 ## calabash-demo
 
-## How to create ipa without developer account that you pay $99 a year
+## How to create ipa without developer account requiring you to pay $99 a year.
 
 1)Clean your project.
 
@@ -24,4 +24,7 @@
     bundle exec cucumber
 ## How to run a Calabash test with Test Cloud
     test-cloud submit /Users/mk/Library/Developer/Xcode/DerivedData/UIKitCatalog-ghqralqwepidpgfednnnzqwsentm/Build/Products/Debug-iphoneos/ da794e99f6471ff26617fbb2ff79779e --devices 9e98a780 --series "master" --locale "en_US" --user mayukatoaka@excite.co.jp
+
+## Screenshot from Test Cloud
+<img src="assets/calabash.png" width="600" height="600">
 
