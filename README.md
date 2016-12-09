@@ -26,5 +26,5 @@
     test-cloud submit /Users/mk/Library/Developer/Xcode/DerivedData/UIKitCatalog-ghqralqwepidpgfednnnzqwsentm/Build/Products/Debug-iphoneos/ da794e99f6471ff26617fbb2ff79779e --devices 9e98a780 --series "master" --locale "en_US" --user mayukatoaka@excite.co.jp
 
 ## Screenshot from Test Cloud
-<img src="assets/calabash.png" width="600" height="600">
+<img src="assets/calabash.png">
 
