@@ -1,0 +1,12 @@
+ids
+labels
+text
+touch("UILabel :'UIKitCatalog'")
+touch(label marked:Welcome to my blog')
+touch("label marked:'UIKitCatalog'")
+label UILabel
+list ids
+ids
+labels
+ids
+exit
